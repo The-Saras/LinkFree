@@ -1,45 +1,40 @@
-## [0.78.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.78.0...v0.78.1) (2022-10-28)
-
-
-### Bug Fixes
-
-* color of hyperlinks in dark mode ([#1929](https://github.com/EddieHubCommunity/LinkFree/issues/1929)) ([7a073cb](https://github.com/EddieHubCommunity/LinkFree/commit/7a073cbac01550f68bb0fa8ebe79aafe7eaac2eb))
-
-
-
-# [0.78.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.77.3...v0.78.0) (2022-10-21)
+# [1.143.0](https://github.com/EddieHubCommunity/LinkFree/compare/v1.142.6...v1.143.0) (2023-06-16)
 
 
 ### Features
 
-* keyboard shortcut for seachbox ([#1971](https://github.com/EddieHubCommunity/LinkFree/issues/1971)) ([2eda13a](https://github.com/EddieHubCommunity/LinkFree/commit/2eda13afdaf61aad5e1884b193a8f73bb5c57465))
+* search by location ([#7535](https://github.com/EddieHubCommunity/LinkFree/issues/7535)) ([4949dc3](https://github.com/EddieHubCommunity/LinkFree/commit/4949dc395d9c15ce18e67c0310012fee4a17304c))
 
 
 
-## [0.77.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.77.2...v0.77.3) (2022-10-12)
-
-
-### Bug Fixes
-
-* confusing line in README ([#1871](https://github.com/EddieHubCommunity/LinkFree/issues/1871)) ([72b0ab3](https://github.com/EddieHubCommunity/LinkFree/commit/72b0ab36d1d1c2ac54155764feba022e3c8670f7))
-
-
-
-## [0.77.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.77.1...v0.77.2) (2022-10-10)
+## [1.142.6](https://github.com/EddieHubCommunity/LinkFree/compare/v1.142.5...v1.142.6) (2023-06-16)
 
 
 ### Bug Fixes
 
-* border-radius for milestones & images ([#1867](https://github.com/EddieHubCommunity/LinkFree/issues/1867)) ([e90ac72](https://github.com/EddieHubCommunity/LinkFree/commit/e90ac72d213c95d1758bd7fca72dd4dacf02d097))
+* social og description ([#7615](https://github.com/EddieHubCommunity/LinkFree/issues/7615)) ([ec13130](https://github.com/EddieHubCommunity/LinkFree/commit/ec131305fda66ee6b02c789239e7e18c2cf27ccb))
 
 
 
-## [0.77.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.77.0...v0.77.1) (2022-10-09)
+## [1.142.5](https://github.com/EddieHubCommunity/LinkFree/compare/v1.142.4...v1.142.5) (2023-06-16)
 
 
 ### Bug Fixes
 
-* Shareicons color changing fix in build (purgecss) ([#1917](https://github.com/EddieHubCommunity/LinkFree/issues/1917)) ([84de04a](https://github.com/EddieHubCommunity/LinkFree/commit/84de04a97fa7663b2349d3bd52fbff36b1b6bf63))
+* profile share preview ([#7613](https://github.com/EddieHubCommunity/LinkFree/issues/7613)) ([08ba50c](https://github.com/EddieHubCommunity/LinkFree/commit/08ba50c8d8709e870484890e4a37da944ebf969c)), closes [#7609](https://github.com/EddieHubCommunity/LinkFree/issues/7609)
+
+
+
+## [1.142.4](https://github.com/EddieHubCommunity/LinkFree/compare/v1.142.3...v1.142.4) (2023-06-15)
+
+
+### Bug Fixes
+
+* update LinkFree-CLI version ([#7606](https://github.com/EddieHubCommunity/LinkFree/issues/7606)) ([588e62e](https://github.com/EddieHubCommunity/LinkFree/commit/588e62e55342bb5f20fbd6d22e6a3a744a711b0c))
+
+
+
+## [1.142.3](https://github.com/EddieHubCommunity/LinkFree/compare/v1.142.2...v1.142.3) (2023-06-14)
 
 
 
